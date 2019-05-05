@@ -1,0 +1,6 @@
+
+to run my docker use this command beacuse of apache 
+
+ docker run -dit -p 8080:5000 --name [any name] [the conatiner name ]
+
+
